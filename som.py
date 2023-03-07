@@ -1,0 +1,1 @@
+welcome shear force and bending moment
